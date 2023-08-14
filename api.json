@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 19.99,
+        "id": 1,
+        "title": "Pulparindo",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/1.jpg"
+    },
+
+    {
+        "precio": 24.99,
+        "id": 2,
+        "title": "Carlos V",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/2.jpg"
+    },
+
+    {
+        "precio": 11.99,
+        "id": 3,
+        "title": "Duvalim",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/3.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 4,
+        "title": "Bubu lubu",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/4.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 5,
+        "title": "Pelon Pelo Rico",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/5.jpg"
+    },
+
+    {
+        "precio": 19.99,
+        "id": 6,
+        "title": "Skittles",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/6.jpg"
+    },
+
+    {
+        "precio": 24.99,
+        "id": 7,
+        "title": "Hershey's",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/7.jpg"
+    },
+
+    {
+        "precio": 19.99,
+        "id": 8,
+        "title": "Crunch",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/8.jpg"
+    },
+
+    {
+        "precio": 22.99,
+        "id": 9,
+        "title": "KitKat",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/9.jpg"
+    },
+
+    {
+        "precio": 9.99,
+        "id": 10,
+        "title": "Bocadin",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/10.jpg"
+    },
+
+    {
+        "precio": 5.99,
+        "id": 11,
+        "title": "Mazapan",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/11.jpg"
+    },
+
+    {
+        "precio": 14.99,
+        "id": 12,
+        "title": "Panditas",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/cast/12.jpg"
+    }
+
+]
